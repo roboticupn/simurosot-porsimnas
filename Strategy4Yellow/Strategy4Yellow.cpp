@@ -5,13 +5,14 @@
 #include <stdlib.h>
 #include <string.h>
 #include "Strategy4Yellow.h"
+#include <cmath>
 
 
 // Set the team name for yellow side.
 STRATEGY4YELLOW_API void SetYellowTeamName(char* teamName)
 {
 	// MUST change the name into your own team name!
-	strcpy(teamName, "DEMO Yellow");
+	strcpy(teamName, "AVERROES");
 }
 
 // Set the positions and rotations of your team when your team place robots first.
