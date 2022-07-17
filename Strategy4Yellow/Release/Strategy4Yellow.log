@@ -1,0 +1,10 @@
+﻿  Strategy4Yellow.cpp
+c:\strategy\src\strategy4yellow\strategy4yellow.cpp(15): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+     Creating library C:\Strategy\src\Strategy4Yellow\Release\Strategy4Yellow.lib and object C:\Strategy\src\Strategy4Yellow\Release\Strategy4Yellow.exp
+  Generating code
+  0 of 20 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Strategy4Yellow.vcxproj -> C:\Strategy\src\Strategy4Yellow\Release\Strategy4Yellow.dll
